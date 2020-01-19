@@ -11,9 +11,9 @@ license = "AGPL-3.0"
 serde = { version = "1.0", features = ["derive"] }
 sha2 = "0.8.0"
 snafu = "0.6.0"
-ssb-legacy-msg-data = { git="https://github.com/sunrise-choir/legacy-msg-data", version = "0.1.1" }
+ssb-legacy-msg-data = { git="https://github.com/leo-lb/legacy-msg-data", version = "0.1.1" }
 ssb-multiformats = "0.1.0"
-ssb-verify-signatures = {git = "https://github.com/sunrise-choir/ssb-verify-signatures"}
+ssb-verify-signatures = {git = "https://github.com/leo-lb/ssb-verify-signatures"}
 rayon = "1.2.0"
 
 [dev-dependencies]
